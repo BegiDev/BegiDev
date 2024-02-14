@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Begzod</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="coding" witdh="400" src="https://komarev.com/ghpvc/?username=begidev&label=Profile%20views&color=0e75b6&style=flat" alt="begidev" /> 
+<img align="left" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<img align="right" alt="begidev" witdh="400" src="https://komarev.com/ghpvc/?username=begidev&label=Profile%20views&color=0e75b6&style=flat"  /> 
 
 
 - 🔭 I’m currently working on **portfolio**
