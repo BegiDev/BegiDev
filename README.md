@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on (@BegiDev @JavaScriptQuiiz)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **abdukhamidov0904@gmail.com**
 
