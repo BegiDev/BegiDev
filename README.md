@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BegiDev](https://github.com/BegiDev)
 
-- 📝 I regularly write articles on [@BegiDev @JavaScriptQuiiz](@BegiDev @JavaScriptQuiiz)
+- 📝 I regularly write articles on (@BegiDev @JavaScriptQuiiz)
 
 - 💬 Ask me about **React**
 
