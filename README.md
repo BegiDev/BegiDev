@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Begzod</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<p align="left"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img></p>
+<p align="right" alt="Coding" width="400"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img></p>
 
 - 🔭 I’m currently working on **portfolio**
 
